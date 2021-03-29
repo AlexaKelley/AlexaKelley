@@ -5,8 +5,7 @@ layout: single
 path: /about/
 type: pages
 ---
-My name is Alexa Kelley and I am an information security professional with a complex background. Presently I am working as a Security Engineer. I have a focus in DevOps infrastructure and incident response.  am working on moving into leadership to better support my long term goals of diversity and ethics in tech. 
-
+My name is Alexa Kelley and I am an information security professional with a complex background. Presently I am working as a Security Engineer. I have a focus in DevOps infrastructure and incident response. I am working on moving into leadership to better support my long term goals of diversity and ethics in tech. 
 
 # My professional philosophy
 1. People > Technology/Tools. People deserve to be treated with respect and dignity. Similarly just because something that a person does _can_ be replaced with technology does not always mean it _should_ be. 
