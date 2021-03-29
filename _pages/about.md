@@ -5,7 +5,7 @@ layout: single
 path: /about/
 type: pages
 ---
-Hi my name is Alexa Kelley. I am a security engineer with a diverse background. I have a particular focus in devops infrastructure and incident response. I am working on transitioning into leadership to better support my goals of diversity and ethics in tech. 
+My name is Alexa Kelley and I am a information security professional with a diverse background. Presently I am working as a Security Engineer. I have a focus in DevOps infrastructure and incident response. I am working on transitioning into leadership to better support my goals of diversity and ethics in tech. 
 
 # Why did you make this site?
 1. It is regularly expected for those looking to enter into the field of leadership to have a public presence. I have created this blog in part to help address that expectation.

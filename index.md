@@ -3,6 +3,6 @@ layout: single
 author_profile: true
 ---
 
-Welcome! I am still developing this page, but I expect to be updating up to a few times a month. Check out my [about me](/about/) section if you want to know more about who I am. 
+This site is my professional blog where I will be sharing my thoughts on security, diversity, and tech. You can read more about my intentions for this blog [here](/introductions/time-to-work/).
 
-The majority of this site is in the [blog](/blog/) section where I'll be sharing my thoughts on security, diversity, and tech.
+If you would like to know more about myself and my professional philosophy check out my [about me](/about/).
