@@ -5,13 +5,10 @@ layout: single
 path: /about/
 type: pages
 ---
-My name is Alexa Kelley and I am a information security professional with a diverse background. Presently I am working as a Security Engineer. I have a focus in DevOps infrastructure and incident response. I am working on transitioning into leadership to better support my goals of diversity and ethics in tech. 
+My name is Alexa Kelley and I am an information security professional with a complex background. Presently I am working as a Security Engineer. I have a focus in DevOps infrastructure and incident response.  am working on moving into leadership to better support my long term goals of diversity and ethics in tech. 
 
-# Why did you make this site?
-1. It is regularly expected for those looking to enter into the field of leadership to have a public presence. I have created this blog in part to help address that expectation.
-2. I have thoughts on the tech industry that I would like to share that don't fit conveniently into the microblogging form factor.
 
-# What is your professional philosophy? 
-1. People > Technology/Tools. People deserve to be treated with respect and dignity.  Similarly just because something that a person does _can_ be replaced with technology does not always mean it _should_ be. 
-2. We have a responsibility as an industry to engage with creating more effective regulation for corporations. This is both a personal and group responsibility. 
-3. As engineers we have a direct responsibility for upholding ethical usage of technology, even in the face of pressure.
+# My professional philosophy
+1. People > Technology/Tools. People deserve to be treated with respect and dignity. Similarly just because something that a person does _can_ be replaced with technology does not always mean it _should_ be. 
+2. We have a responsibility as an industry to engage with our organizations for creating more effective regulation for corporations. This also includes standing against anti-regulatory attempts lobbying by companies. 
+3. Emergent theory is an essential component to the proper analysis and remediation of systemic problems. 
