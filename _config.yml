@@ -98,7 +98,7 @@ analytics:
 author:
   name             : "Alexa Kelley"
   avatar           : /assets/images/bio-photo.jpg
-  bio              : "I am a InfoSec professional with a penchant for doing the right thing"
+  bio              : "I am an InfoSec professional with a penchant for doing the right thing"
   location         : "Michigan"
   links:
     - label: "Email"
