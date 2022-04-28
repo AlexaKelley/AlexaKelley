@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Chaos Cat Security"
 title_separator          : "-"
 subtitle                 : "Helping Others To Do Better"
-name                     : "Alexa Kelley"
+name                     : "Alexa Kelley (they/them)"
 description              : "A place to share my thoughts"
 url                      : https://chaos-cat.page # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -96,9 +96,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexa Kelley"
+  name             : "Alexa Kelley (they/them)"
   avatar           : /assets/images/bio-photo.jpg
-  bio              : "I am an InfoSec professional with a penchant for doing the right thing"
+  bio              : "I am a Principal Infrastructure & Operations Security Engineer and I'm also an activist who is trying to make the world a better and safer place."
   location         : "Michigan"
   links:
     - label: "Email"
