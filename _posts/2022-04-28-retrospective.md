@@ -1,7 +1,7 @@
 ---
 title: Retrospective
 header:
-  overlay_image: /assets/images/2022-04-28-thinking-unsplash
+  overlay_image: /assets/images/2022-04-28-thinking-unsplash.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "A moneky thinking, Photo credit: [Juan Rumimpunu](https://unsplash.com/@earbiscuits) on [**Unsplash**](https://unsplash.com)"
 excerpt: "[...] I think this needs to change"
